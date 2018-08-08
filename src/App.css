@@ -1,0 +1,29 @@
+body {
+  background: #434343;
+}
+
+a {
+  color: #975c5c;
+}
+
+button:focus {
+  outline: none;
+}
+
+.App {
+}
+
+.App-header {
+  background-color: #0c0e40;
+  height: 80px;
+  padding: 20px;
+  color: #b2b2b2;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: medium;
+}
